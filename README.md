@@ -1,1 +1,1 @@
-# gait recogntion
+# gait recognition
